@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning MERN Stack.
 - 💬 Ask me about Competetive Programming.
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apoorv-dixit-348b72192/)](https://www.linkedin.com/in/apoorv-dixit-348b72192/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/apoorvdixit88/)](https://github.com/apoorvdixit88/)  [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/jjean_dev)](https://www.instagram.com/dx_apoorv)
 
